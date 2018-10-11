@@ -16,3 +16,6 @@
 [submodule "day07"]
 	path = day07
 	url = https://github.com/DarkHonin/Piscine-PHP_day07.git
+[submodule "day08"]
+	path = day08
+	url = https://github.com/DarkHonin/Piscine-PHP_day08.git
